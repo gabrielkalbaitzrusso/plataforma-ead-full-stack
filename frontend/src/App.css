@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-rounded {
+  border-radius: 50%;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.border-radius-none {
+  border-radius: 0 !important;
+}
+
+.card-text {
+  font-size: 12px;
+  ;
+}
+
+.text-12 {
+  font-size: 12px;
+}
+
+.bg-header {
+  background: rgb(255, 102, 196);
+  background: -moz-linear-gradient(90deg, rgba(255, 102, 196, 1) 0%, rgba(239, 120, 10, 0.8) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(255, 102, 196, 1) 0%, rgba(239, 120, 10, 0.8) 100%);
+  background: linear-gradient(90deg, rgba(255, 102, 196, 1) 0%, rgba(239, 120, 10, 0.8) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff66c4", endColorstr="#ef780a", GradientType=1);
+}
+
+.bg-rosa{
+  background: #870c3d;
+}
+
+.text-rosa{
+  color: #870c3d;
+}
+
+.btn-rosa{
+  background: #870c3d;
+}
+
+.btn-rosa:hover{
+  background: #6f0a32;
+}
