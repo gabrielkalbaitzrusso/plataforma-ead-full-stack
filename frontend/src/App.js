@@ -38,27 +38,27 @@ function App() {
             <div className="position-sticky text-center">
               <ul className="nav flex-column ms-4 position-fixed">
                 <li className="nav-item py-2">
-                  <a className="nav-link active" Href="#">
+                  <a className="nav-link active" href="#">
                     <i className=" text-rosa fa fa-house mb-2"></i>
                   </a>
                 </li>
                 <li className="nav-item py-2">
-                  <a className="nav-link" Href="#">
+                  <a className="nav-link" href="#">
                     <i className=" text-rosa fa fa-folder"></i>
                   </a>
                 </li>
                 <li className="nav-item py-2">
-                  <a className="nav-link" Href="#">
+                  <a className="nav-link" href="#">
                     <i className="text-rosa fa fa-shop"></i>
                   </a>
                 </li>
                 <li className="nav-item py-2">
-                  <a className="nav-link" Href="#">
+                  <a className="nav-link" href="#">
                     <i className="text-rosa fa fa-circle-info"></i>
                   </a>
                 </li>
                 <li className="nav-item py-2">
-                  <a className="nav-link" Href="#">
+                  <a className="nav-link" href="#">
                     <i className="text-rosa fa fa-comments"></i>
                   </a>
                 </li>
@@ -108,7 +108,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -151,7 +151,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -194,7 +194,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -237,7 +237,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -280,7 +280,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -323,7 +323,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -366,7 +366,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
@@ -409,7 +409,7 @@ function App() {
                       </div>
                     </div>
                     <div className="text-center mt-4">
-                      <a Href="#" class="btn btn-rosa text-white">
+                      <a href="#" class="btn btn-rosa text-white">
                         Estudar
                       </a>
                     </div>
