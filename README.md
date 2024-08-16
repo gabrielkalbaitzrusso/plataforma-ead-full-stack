@@ -1,0 +1,1 @@
+Todas Elas Tech é uma plataforma sem fins lucrativos voltada para mulheres de todas as origens, em vulnerabilidade social. O principal objetivo é promover a redução da desigualdade de gênero no mercado de tecnologia, através do estudo, capacitação e oportunidades de promoção profissional com contratação de empresas parceiras.
